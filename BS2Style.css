@@ -108,7 +108,7 @@ p {
 .hero {
   width: 100%;
   height: 60vh; /* adjust height as needed */
-  background-image: url('../LandingPage/storyPic2.jpg'); /* your head pic */
+  background-image: url('storyPic2.jpg'); /* your head pic */
   background-size: cover;       /* fill the section */
   background-position: center;  /* center the image */
   position: relative;
