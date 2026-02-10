@@ -298,6 +298,7 @@
 /* Left Side - Contact Info */
 .contact-info {
     color: white;
+    text-align: center;
 }
 
 .contact-label {
@@ -321,6 +322,7 @@
     line-height: 1.8;
     margin-bottom: 40px;
     color: rgba(255, 255, 255, 0.9);
+    font-family: 'Inter', sans-serif;
 }
 
 /* Contact Details */
