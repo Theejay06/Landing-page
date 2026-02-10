@@ -298,7 +298,7 @@
 /* Left Side - Contact Info */
 .contact-info {
     color: white;
-    text-align: center;
+    text-align: start;
 }
 
 .contact-label {
@@ -411,6 +411,7 @@
         padding: 30px;
     }
 }
+
 
 
 
